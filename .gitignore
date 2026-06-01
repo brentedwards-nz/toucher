@@ -78,6 +78,12 @@ web_modules/
 .next
 out
 
+# Turborepo
+.turbo
+
+# Build output
+dist
+
 # Nuxt.js build / generate output
 .nuxt
 dist
